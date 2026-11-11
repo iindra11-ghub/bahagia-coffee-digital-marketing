@@ -42,3 +42,20 @@
 **Project:** Bahagia Coffee And Street  
 **Document Type:** Content Research  
 **Status:** Research Completed - Awaiting Approval
+
+### 6. Content Feasibility Assessment
+
+| Criteria | Score |
+|---|---:|
+| Hook Strength | 4/5 |
+| Audience Relevance | 5/5 |
+| Brand Relevance | 5/5 |
+| Production Feasibility | 4/5 |
+| Engagement Potential | 4/5 |
+| Total | 22/25 |
+
+**Recommendation:** Worth Considering
+
+**Reason:** The concept combines humor, audience relatability, and product promotion. It can introduce Americano and Matcha while encouraging audience interaction.
+
+**Note:** Scores are preliminary assessments based on content observation, not actual performance data.
